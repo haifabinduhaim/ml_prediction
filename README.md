@@ -1,1 +1,1 @@
-A simple machine learning project that predicts car prices based on vehicle features using Linear Regression. The dataset was obtained from an online source and processed for model training and evaluation.
+
